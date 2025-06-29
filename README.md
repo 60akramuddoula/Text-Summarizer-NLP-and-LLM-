@@ -1,4 +1,13 @@
 # Text-Summarizer-NLP-and-LLM-
+# My FastAPI App
+
+## 📽️ Demo
+
+<video width="640" height="360" controls>
+  <source src="[static/videos/demo.mp4](https://github.com/60akramuddoula/Text-Summarizer-NLP-and-LLM-/blob/main/ai%20powered%20text%20summerization.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 🚀 Thrilled to Launch My Latest NLP Project! 🚀
 
 I’m excited to share my new AI-Powered Text Summarizer — a simple yet powerful NLP tool designed to help you work smarter, not harder! 🧠✨
